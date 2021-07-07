@@ -6,14 +6,14 @@
 
 <h2>Main Sections: </h2>
 <ol>
-  <li> 1. Variables </li> 
-  <li> 2. Numbers </li> 
-  <li> 3. Text (manipulating text) <l/i> 
-  <li> 4. Logic </li> 
-  <li> 5. Data Structures (dealing with lots of data) </li> 
-  <li> 6. Loops </li> 
-  <li> 7. Functions (tic tac toe game) </li> 
-  <li> 8. Object Oriented Programming (OOP) (classes, objects, etc) </li> 
+  <li>Variables </li> 
+  <li>Numbers </li> 
+  <li>Text (manipulating text) <l/i> 
+  <li>Logic </li> 
+  <li>Data Structures (dealing with lots of data) </li> 
+  <li>Loops </li> 
+  <li>Functions (tic tac toe game) </li> 
+  <li>Object Oriented Programming (OOP) (classes, objects, etc) </li> 
 </ol>
 
 <h2>Instaling Python on Windows </h2>
