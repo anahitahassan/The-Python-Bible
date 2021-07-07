@@ -13,3 +13,7 @@ Main Sections:
 6. Loops 
 7. Functions (tic tac toe game)
 8. Object Oriented Programming (OOP) (classes, objects, etc)
+
+Instaling Python on Windows
+- download most updated version of Python
+- 
