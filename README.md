@@ -6,4 +6,6 @@
 - 1. Variables
 - 2. Numbers
 - 3. Text (manipulating text)
-- 4. Logic ()
+- 4. Logic 
+- 5. Data Structures (dealing with lots of data)
+- 6. 
