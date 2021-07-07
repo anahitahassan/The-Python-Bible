@@ -4,7 +4,7 @@
 - Project based course
 - Idle = python editor
 
-Main Sections: 
+<u>Main Sections: </u>
 1. Variables
 2. Numbers
 3. Text (manipulating text)
@@ -14,7 +14,7 @@ Main Sections:
 7. Functions (tic tac toe game)
 8. Object Oriented Programming (OOP) (classes, objects, etc)
 
-Instaling Python on Windows
+<u>Instaling Python on Windows </u>
 - download most updated version of Python from the python website
 - when you launch the installer, you'll see a window pop up. Click the checkbox at the bottom that says add Py 3.9.6 to path
 - then click customize installation button
