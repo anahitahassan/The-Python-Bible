@@ -9,3 +9,5 @@
 - 4. Logic 
 - 5. Data Structures (dealing with lots of data)
 - 6. Loops 
+- 7. Functions (tic tac toe game)
+- 8. Object Oriented Programming (OOP) (classes, objects, etc)
