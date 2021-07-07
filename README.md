@@ -10,7 +10,7 @@
 <li> 3. Text (manipulating text) <l/i> 
 <li> 4. Logic </li> 
 <li> 5. Data Structures (dealing with lots of data) </li> 
-<i> 6. Loops </li> 
+<li> 6. Loops </li> 
 <li> 7. Functions (tic tac toe game) </li> 
 <li> 8. Object Oriented Programming (OOP) (classes, objects, etc) </li> 
 
