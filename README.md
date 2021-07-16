@@ -28,3 +28,16 @@
   <li> Open up command prompt (go to menu and type cmd) </li> 
   <li> In all lowercase, write "python" and enter. </li>   
   <li> Some text should show up, meaning you have successfully installed and set up python on your windows machine </li>   
+
+<h2>IDLE: Python Interactive Developer Environment (IDE)</h2>
+- The program we use to write Python
+- IDLE is Python's own IDE (a useful text editor that makes it easier to program in a programming language)
+- Used to run python commands and write python scripts
+- in search bar, search up 'idle'
+- you should see a window pop up
+- that box is known as the python shell
+- whatever you type in there will be interpreted by python as a command
+- go to the toolbar at the top
+- you can create new files, save files, etc
+- these files are python scripts
+- under the 'Help' tab there is an option that says 'Python Docs', it's Documentation 
