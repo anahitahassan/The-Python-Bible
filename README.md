@@ -57,13 +57,13 @@
   <li> For example: "Answer not being shown on screen when running python Script". </li>
   <li> Now this is very vauge, so in the description write: </li>
     <ol>
-      <li> Observed Behavior
-      <li> Expected Behavior
-      <li> Link to Code (use gist.github.com)
-      <li> Where I think the problem is
-      <li> List of 3 things that I have done to try to solve the problem
-      <li> Errors messages and warnings
-      <li> Version of Python used
-      <li> Screenshots where necessary 
+        <li> Observed Behavior
+        <li> Expected Behavior
+        <li> Link to Code (use gist.github.com)
+        <li> Where I think the problem is
+        <li> List of 3 things that I have done to try to solve the problem
+        <li> Errors messages and warnings
+        <li> Version of Python used
+        <li> Screenshots where necessary 
     </ol>
   <li> Hopefully you were able to solve the problem while doing this list! </li>
