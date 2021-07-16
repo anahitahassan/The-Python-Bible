@@ -56,7 +56,7 @@
   <li> Have a great question title. Start with [Help]. When the question is answered, replace with [Solved]. </li>
   <li> For example: "Answer not being shown on screen when running python Script". </li>
   <li> Now this is very vauge, so in the description write: </li>
-    <ol style = “margin-left: 80px”>
+    <ol>
       <li> Observed Behavior
       <li> Expected Behavior
       <li> Link to Code (use gist.github.com)
