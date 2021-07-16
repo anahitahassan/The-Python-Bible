@@ -47,3 +47,30 @@
   <li> To make a script: go to toolbar -> New File -> go save it under name.py in your directory.  </li>
   <li> Toolbar -> Run -> Run Module. It runs our script. Remember to use print() function in order to print something. </li>
   <li> So it seems in order to open those scripts I have to go to search bar -> search up 'idle' -> have that window open -> then from the toolbar I open the script. </li>
+
+<h2>Programming Tips </h2>
+  <li> Ask great questions. Will help you save time and headache. </li>
+  <li> Take advantage of the community of students. Look through the forums, Q&As. </li>
+  <li> Take a look at the checklist. </li>
+  <li> Search for questions, and you can ask questions. </li>
+  <li> Have a great question title. Start with [Help]. When the question is answered, replace with [Solved]. </li>
+  <li> For example: "Answer not being shown on screen when running python Script". </li>
+  <li> Now this is very vauge, so in the description talk about the observed and expected behavior, link to code, where you think the problem is, and add a list of what you tried already. </li>
+    <ol>
+      <li> Observed Behavior
+      <li> Expected Behavior
+      <li> Link to Code
+      <li> Where I think the problem is
+      <li> What I have already tried
+      <li> Errors and warnings
+      <li> Version indo
+      <li> Other acknowledgements
+    </ol>
+  <li> 
+  <li> 
+  <li> 
+  <li> 
+  <li> 
+  <li> 
+  <li> 
+  <li> 
