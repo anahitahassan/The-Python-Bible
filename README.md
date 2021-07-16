@@ -55,22 +55,15 @@
   <li> Search for questions, and you can ask questions. </li>
   <li> Have a great question title. Start with [Help]. When the question is answered, replace with [Solved]. </li>
   <li> For example: "Answer not being shown on screen when running python Script". </li>
-  <li> Now this is very vauge, so in the description talk about the observed and expected behavior, link to code, where you think the problem is, and add a list of what you tried already. </li>
+  <li> Now this is very vauge, so in the description write: </li>
     <ol>
       <li> Observed Behavior
       <li> Expected Behavior
-      <li> Link to Code
+      <li> Link to Code (use gist.github.com)
       <li> Where I think the problem is
-      <li> What I have already tried
-      <li> Errors and warnings
-      <li> Version indo
-      <li> Other acknowledgements
+      <li> List of 3 things that I have done to try to solve the problem
+      <li> Errors messages and warnings
+      <li> Version of Python used
+      <li> Screenshots where necessary 
     </ol>
-  <li> 
-  <li> 
-  <li> 
-  <li> 
-  <li> 
-  <li> 
-  <li> 
-  <li> 
+  <li> Hopefully you were able to solve the problem while doing this list! </li>
