@@ -10,7 +10,7 @@
   <ol>
     <li>Variables </li> 
     <li>Numbers </li> 
-    <li>Text (manipulating text) <l/i> 
+    <li>Text (manipulating text) </li> 
     <li>Logic </li> 
     <li>Data Structures (dealing with lots of data) </li> 
     <li>Loops </li> 
