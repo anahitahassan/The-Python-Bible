@@ -20,24 +20,28 @@
 
 <h2>Instaling Python on Windows </h2>
   <li> Download most updated version of Python from the python website. </li> 
-  <li> When you launch the installer, you'll see a window pop up. Click the checkbox at the bottom that says add Py 3.9.6 to path </li> 
+  <li> When you launch the installer, you'll see a window pop up. </li> 
+  <li> Click the checkbox at the bottom that says add Py 3.9.6 to path. </li> 
   <li> Then click customize installation button <l/i> 
   <li> Don't mess with the default options that are already checked </li> 
   <li> Click next, then check the button that says install python for all users. (The reason we do this is because it makes the install location for python much easier to deal with later.) The install path shown in the box changes to something nicer. </li> 
   <li> Install will begin </li> 
   <li> Open up command prompt (go to menu and type cmd) </li> 
   <li> In all lowercase, write "python" and enter. </li>   
-  <li> Some text should show up, meaning you have successfully installed and set up python on your windows machine </li>   
+  <li> Some text should show up, meaning you have successfully installed and set up python on your windows machine. </li>   
 
 <h2>IDLE: Python Interactive Developer Environment (IDE)</h2>
-- The program we use to write Python
-- IDLE is Python's own IDE (a useful text editor that makes it easier to program in a programming language)
-- Used to run python commands and write python scripts
-- in search bar, search up 'idle'
-- you should see a window pop up
-- that box is known as the python shell
-- whatever you type in there will be interpreted by python as a command
-- go to the toolbar at the top
-- you can create new files, save files, etc
-- these files are python scripts
-- under the 'Help' tab there is an option that says 'Python Docs', it's Documentation 
+  <li> The program we use to write Python. </li>
+  <li> IDLE is Python's own IDE (a useful text editor that makes it easier to program in a programming language). </li>
+  <li> Used to run python commands and write python scripts. </li>
+  <li> In search bar, search up 'idle'. You should see a window pop up - that box is known as the python shell. </li>
+  <li> Whatever you type in there will be interpreted by python as a command. </li>
+  <li> Go to the toolbar at the top. </li>
+  <li> You can create new files, save files, etc. </li>
+  <li> These files are python scripts. </li>
+  <li> Under the 'Help' tab there is an option that says 'Python Docs', it's Documentation. </li>
+  <li> You can enter commands like "1+1" or "40%5" and it will return the answer. </li>
+  <li> To make our code reusable we use Python scripts - files that store commands. </li>
+  <li> To make a script: go to toolbar -> New File -> go save it under name.py in your directory.  </li>
+  <li> Toolbar -> Run -> Run Module. It runs our script. Remember to use print() function in order to print something. </li>
+
