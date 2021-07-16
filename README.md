@@ -18,7 +18,7 @@
     <li>Object Oriented Programming (OOP) (classes, objects, etc) </li> 
   </ol>
 
-<h2>Instaling Python on Windows </h2>
+<h2>Installing Python on Windows </h2>
   <li> Download most updated version of Python from the python website. </li> 
   <li> When you launch the installer, you'll see a window pop up. </li> 
   <li> Click the checkbox at the bottom that says add Py 3.9.6 to path. </li> 
