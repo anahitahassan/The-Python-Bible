@@ -44,4 +44,4 @@
   <li> To make our code reusable we use Python scripts - files that store commands. </li>
   <li> To make a script: go to toolbar -> New File -> go save it under name.py in your directory.  </li>
   <li> Toolbar -> Run -> Run Module. It runs our script. Remember to use print() function in order to print something. </li>
-
+  <li> So it seems in order to open those scripts I have to go to search bar -> search up 'idle' -> have that window open -> then from the toolbar I open the script. </li>
