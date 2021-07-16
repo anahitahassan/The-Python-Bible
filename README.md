@@ -24,7 +24,9 @@
   <li> Click the checkbox at the bottom that says add Py 3.9.6 to path. </li> 
   <li> Then click customize installation button <l/i> 
   <li> Don't mess with the default options that are already checked </li> 
-  <li> Click next, then check the button that says install python for all users. (The reason we do this is because it makes the install location for python much easier to deal with later.) The install path shown in the box changes to something nicer. </li> 
+  <li> Click next, then check the button that says install python for all users. </li> 
+  <li> (The reason we do this is because it makes the install location for python much easier to deal with later.) </li> 
+  <li> The install path shown in the box changes to something nicer. </li> 
   <li> Install will begin </li> 
   <li> Open up command prompt (go to menu and type cmd) </li> 
   <li> In all lowercase, write "python" and enter. </li>   
