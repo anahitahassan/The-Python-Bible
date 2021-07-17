@@ -5,7 +5,6 @@ import random
 health = 50 
 difficulty = 1 # where hard = 1, medium = 2, easy = 3
 
-
 # Note: search up 'Python docs Module Index' to read documentation. 
 # Alphabetical list of all modules: https://docs.python.org/3/py-modindex.html
 # Go to r -> random -> random.randint(a, b)
