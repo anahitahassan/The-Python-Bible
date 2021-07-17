@@ -8,7 +8,9 @@ print(round(1.7)) # 2
 
 import math
 print(math.floor(1.5)) # now it's 1!
-print(math.ceil(3.1)) # now it's 4!
+print(math.ceil(3.1)) # now it's 4! Now if you have .0 how would these functions affect it?
+print(math.floor(12.0)) # just 12
+print(math.ceil(12.0)) # just 12
 
 # Constants (prints 15 digits after decimal)
 print(math.pi) 
