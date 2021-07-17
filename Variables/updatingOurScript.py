@@ -9,3 +9,6 @@ print(second_number)
 
 total = first_number + second_number
 print(total)
+
+# So far we have only learned the print() and type() functions.
+#  
