@@ -7,3 +7,10 @@
 # We know: + , - , * , /
 print(type(2)) # <class 'int'>
 print(type(0.5)) # <class 'float'>
+# float takes up 16 bytes, int is 14
+# Modulo: allows us to find remainder, it's the same in java. 
+print(5 % 3)
+print(10 % 2)
+print(7.5 % 5) # 5 goes into 7.5 once, with 2.5 left over. 
+print(15 % 2.5)
+print(type(15 % 2.5)) # 0.0 is float
