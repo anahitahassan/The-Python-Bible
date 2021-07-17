@@ -4,3 +4,6 @@
 # Python math module: rounding, powers, square roots, basic trig, more advanced topics
 
 # 13: Basic Arithmetic, Floats and Modulo
+# We know: + , - , * , /
+print(type(2)) # <class 'int'>
+print(type(0.5)) # <class 'float'>
