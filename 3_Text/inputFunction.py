@@ -1,4 +1,5 @@
 # 21: PROJECT 2: Hello You! - Part 1 - Project Overview
+# 22. PROJECT 2: Hello You! - Part 2 - Collecting Data
 
 # Ask user for name
 # Create output text
