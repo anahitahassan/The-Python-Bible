@@ -8,9 +8,6 @@
 
 # 20: Hello World
 
-hello = "Hello world!"
-print(hello)
-
 name = "Anahita"
 print( type(name) )
 
@@ -31,3 +28,6 @@ Feather of lead, bright smoke, cold fire,
 sick health!"""
 
 print(romeo)
+
+hello = "Hello world!"
+print(hello)
