@@ -30,3 +30,7 @@ print(enjoy)
 
 # NOTE: Say you said '23' for the age question
 # when you do type() you'll find that it was saved as a string.
+
+string = "Your name is {} and you are {} years old. You live in {} and you love {}."
+output = string.format(name, age, city, enjoy)
+print(output)

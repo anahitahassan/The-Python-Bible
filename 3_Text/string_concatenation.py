@@ -27,4 +27,5 @@ print("{1} - {0} + {2}".format(A, C, B))
 # now over here, A = 0, C = 1, B = 2. 
 # when 1 is called "ccccc" is printed, when 0 is called "aaaaa" is printed
 
+# I went over to inputFunction.py and did this for the name, age, etc variables. 
 
