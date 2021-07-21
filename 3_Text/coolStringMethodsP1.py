@@ -37,4 +37,3 @@ print(b.islower()) # true
 # .isupper() function prints true is all characters are uppercase
 print(a.isupper()) # true
 print(b.isupper()) # false
-
