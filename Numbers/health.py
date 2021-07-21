@@ -25,3 +25,5 @@ number = 1
 while number < 10:
     print("This is a test")
     number = number + 1
+
+# NOTE: open up Github Desktop first, clone the Python repository, and then start working. 
