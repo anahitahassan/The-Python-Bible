@@ -20,3 +20,8 @@ print(health)
 # As in Java, you can use += to change one variable by adding another variable to it. 
 
 # Casting (putting int and brackets around some code)
+
+number = 1
+while number < 10:
+    print("This is a test")
+    number = number + 1
