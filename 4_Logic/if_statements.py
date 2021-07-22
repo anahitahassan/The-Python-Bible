@@ -56,3 +56,5 @@ if (X > 5 and Y > 5) or (X > 1 and Y > 1):
     print("oooh lets see if this prints")
 if not ((X > 5 and Y > 5) or (X > 1 and Y > 1)):
     print("oooh lets see if this prints")
+
+# 35: Section Review: im done now yayyyyyyy
