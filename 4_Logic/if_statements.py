@@ -38,3 +38,21 @@ if C >= 10 and D > 1:
 
 if not (C > 10 and D > 1):
     print("it worked, yay") # prints. 
+
+
+# 34: Python Logical Operators - Part 2 - or operator
+# "Or" Truth Table: 
+# A = 0 and B = 0 -> Output: 0
+# A = 0 and B = 1 -> Output: 1
+# A = 1 and B = 0 -> Output: 1
+# A = 1 and B = 1 -> Output: 1
+# if one of the two is True(1), the whole thing is true. 
+
+X = 5
+Y = -1
+if X > 1 or Y > 1:
+    print("it worked, again.")
+if (X > 5 and Y > 5) or (X > 1 and Y > 1):
+    print("oooh lets see if this prints")
+if not ((X > 5 and Y > 5) or (X > 1 and Y > 1)):
+    print("oooh lets see if this prints")
