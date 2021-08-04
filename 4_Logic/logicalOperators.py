@@ -1,14 +1,3 @@
-# 32: If Statements
-num1 = 100
-num2 = 50
-
-if num1 > num2:
-    print("num1 is bigger than num2")
-elif num2 > num1:
-    print("num2 is bigger than num1")
-else:
-    print("num2 is equal to num1")
-
 # 33: Python Logical Operators - Part 1 - not + and
 print(not True)
 print(not 2 < 3)
