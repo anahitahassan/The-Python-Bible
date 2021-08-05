@@ -4,7 +4,7 @@
 
 - 74 lecture, 9 hour Python course on Udemy, by Ziyad Yehia
 - Project based course
-- Idle = python editor
+- Idle python editor
 
 <h2>Main Sections: </h2>
   <ol>
