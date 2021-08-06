@@ -34,3 +34,10 @@ def about(name, age, likes):
 
 dictionary = {"name": "Ziyad", "age": 23, "likes": "Python"}
 print(about(**dictionary))
+
+def foo(**kwargs):
+    for key, value in kwargs.item():
+        return ("{} : {}".format(key, value))
+
+foo(huda = "Female", ziyad = "Male")
+print(foo)
