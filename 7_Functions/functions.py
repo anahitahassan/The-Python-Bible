@@ -11,4 +11,3 @@ answer = add(100, 20)
 print(type(answer)) 
 # <class 'int'>
 
-# 58: Variable Scope
