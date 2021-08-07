@@ -40,6 +40,3 @@ print(coin2.color)
 # notice how the color didn't change this time?
 # it's cause coin2 was made new from the Pound template. 
 # each object is independent, even though they came form the same class. 
-
-# 
-
