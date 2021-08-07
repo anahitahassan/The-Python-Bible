@@ -17,7 +17,7 @@ class Coin:
         if self.is_rare:
             self.value = self.original_value * 1.25
         else:
-            self.calue = self.original_value
+            self.value = self.original_value
         
         if self.is_clean:
             self.color = self.clean_color
@@ -30,14 +30,16 @@ class Coin:
     def clean(self):
         self.color = self.clean_color
 
-    def __del__(self):
-        print("Coin Spent!")
-
     def flip(self):
         heads_options = [True, False]
         choice = random.choice(heads_options)
         self.heads = choice
 
+    def __str__(self):
+        if self.original_value >= 1:
+            return "${} Coin".format(int(self.original_value))
+        else:
+            return "{}p Coin".format(int(self.original_value * 100))
 
         
 class One_Pence(Coin):
@@ -167,3 +169,14 @@ class Two_Pound(Coin):
             "mass": 12.00
         }
         super().__init__(**data) 
+
+coins = [One_Pence(), Two_Pence(), Five_Pence(), Ten_Pence(), 
+    Twenty_Pence(), Fifty_Pence(), Pound(), Two_Pound()]
+
+for coin in coins:
+    arguments = [coin, coin.color, coin.value, coin.diameter, 
+        coin.thickness, coin.num_edges, coin.mass]
+
+    string = "{} - Color: {}, value: {}, diameter: {}, thickness: {}, number of edges: {}, mass: {}".format(*arguments)
+
+    print(string)
