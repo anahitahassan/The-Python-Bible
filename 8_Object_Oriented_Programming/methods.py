@@ -30,6 +30,9 @@ class Pound:
         choice = random.choice(heads_options)
         self.heads = choice
 
+    #def __del__(self):
+
+
 coin1 = Pound(rare=True)
 coin2 = Pound()
 
@@ -41,3 +44,5 @@ print(coin1.color)
 coin1.rust()
 print(coin1.color)
 
+coin1.flip()
+print(coin1.heads)
