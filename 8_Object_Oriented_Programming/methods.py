@@ -31,3 +31,6 @@ print(coin2.value)
 print(coin1.color)
 coin1.rust()
 print(coin1.color)
+
+
+# I stopped at video 68 at time 8:06 minutes
