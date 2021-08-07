@@ -1,5 +1,6 @@
 # 68: Methods (and project continued)
 
+import random
 class Pound: 
 
     def __init__(self, rare=False):
@@ -21,6 +22,14 @@ class Pound:
     def rust(self):
         self.color = "greenish"
 
+    def clean(self):
+        self.color = "gold"
+
+    def flip(self):
+        heads_options = [True, False]
+        choice = random.choice(heads_options)
+        self.heads = choice
+
 coin1 = Pound(rare=True)
 coin2 = Pound()
 
@@ -32,5 +41,3 @@ print(coin1.color)
 coin1.rust()
 print(coin1.color)
 
-
-# I stopped at video 68 at time 8:06 minutes
