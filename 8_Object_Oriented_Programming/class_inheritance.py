@@ -3,7 +3,12 @@
 import random
 
 class Coin:
-    def __init__(self, rare = False, clean = True):
+    def __init__(self, rare = False, clean = True, **kwargs):
+        
+        for key, value in kwargs.items():
+            setattr(self, key, value)
+        
+        
         self.is_rare = rare
         self.is_clean = clean
 
@@ -31,35 +36,16 @@ class Coin:
         choice = random.choice(heads_options)
         self.heads = choice
 
-
-class Pound: 
-
-    def __init__(self, rare=False):
-
-        self.rare = rare
-
-        if self.rare:
-            self.value = 1.25
-        else:
-            self.value = 1.00
-
-        # States
-        self.color = "gold"
-        self.num_edges = 1
-        self.diameter = 22.5
-        self.thickness = 3.15
-        self.heads = True
-
-    def rust(self):
-        self.color = "greenish"
-
-    def clean(self):
-        self.color = "gold"
-
-    def flip(self):
-        heads_options = [True, False]
-        choice = random.choice(heads_options)
-        self.heads = choice
-
-    def __del__(self):
-        print("Coin Spent!")
+class Pound(Coin):
+    def __init__(self):
+        data = {
+            "original_value": 1.00, 
+            "clean_color": "gold", 
+            "rusty_color": "greenish", 
+            "num_edges": 1, 
+            "diameter": 22.5, 
+            "thickness": 3.15, 
+            "mass": 9.5
+        }
+    super().__init__(**data) # unpack data
+        
