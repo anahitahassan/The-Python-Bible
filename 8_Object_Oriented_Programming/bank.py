@@ -40,6 +40,3 @@ print(x.statement())
 #   - Inheritance in OOP (a parent class and a child class)
 #   - Polymorphism -- override some behavior
 #   - Use __str__(self) method to give nice output when printing
-#   - 
-#   - 
-#   - 
