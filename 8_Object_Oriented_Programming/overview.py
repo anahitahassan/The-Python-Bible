@@ -5,3 +5,10 @@
 #   - Model a Coin
 #   - Model a Set of Coins
 #   - BUild your own Bank
+
+# 66: Objects and Classes
+# Objects are instances of classes
+# Classes are templates
+# Classes are made of States and Methods
+# States (of a coin): values, color, diameter, heads
+# Methods (of a coin): flip() 
