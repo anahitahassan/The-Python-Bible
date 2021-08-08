@@ -5,6 +5,7 @@
 - 74 lecture, 9 hour Python course on Udemy, by Ziyad Yehia
 - Project based course
 - Idle python editor
+- Cheatsheet: https://docs.google.com/document/d/1asQLnlmeOmhkQ2H8UmfzK3VHsvBXdaK0TanT8bXOjTo/edit?usp=sharing 
 
 <h2>Main Sections: </h2>
   <ol>
