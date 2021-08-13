@@ -68,3 +68,15 @@
       <li> Screenshots where necessary 
     </ol>
   <li> Hopefully you were able to solve the problem while doing this list! </li>
+
+<h2>Cheat Sheet </h2>
+|Name |Quantity|
+|-----|--------|
+|Apple|3       |
+|Egg  |12      |
+  
+  
+  
+  
+  
+  
