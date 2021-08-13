@@ -77,8 +77,7 @@ while True:
 #       - Learned the difference between arguments and parameters
 #       - Learned how to pack and unpack args and kwargs using * and ** respectively. 
     
-
-    
+# Added notes to cheat sheet  
     
 
     
